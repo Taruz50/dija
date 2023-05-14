@@ -28,14 +28,14 @@ $(document).ready(function() {
   });
 
   var typed = new Typed(".typing", {
-    strings: ["am an Economics Student.", "Fast learner", "love cooking.", "am a fun, hardworking person.", "hate swimming", "love reading in my spare time"],
+    strings: ["am an Economics Student.", "am a fast learner", "love cooking.", "am a fun, hardworking person.", "hate swimming", "love reading in my spare time"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
   });
 
   var typed = new Typed(".typing-2", {
-    strings: ["am an Economics Student.", "Fast learner", "love cooking.", "love tennis", "am a fun, hardworking person.", "hate swimming", "love reading in my spare time"],
+    strings: ["am an Economics Student.", "am a fast learner", "love cooking.", "love tennis", "am a fun, hardworking person.", "hate swimming", "love reading in my spare time"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
